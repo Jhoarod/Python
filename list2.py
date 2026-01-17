@@ -6,7 +6,7 @@ equipos = [
     "Real Madrid", "Barcelona", "Atletico de Madrid", "Villarreal",
     "Chelsea", "Arsenal", "Wolves", "Manchester United", "Manchester City",
     "Monaco", "PSG", "Rennes", "Olympique Marsella",
-    "Juventus", "Napoles", "Inter", "AC Milan", "Fiorentina"
+    "Juventus", "Napoles", "Inter", "AC Milan", "Fiorentina", "Bayer munich"
 ]
 
 equipo = str(input("Ingresa un equipo de fútbol: "))
