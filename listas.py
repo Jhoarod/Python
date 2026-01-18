@@ -8,8 +8,8 @@ inglaterra = ["Chelsea", "Arsenal", "Wolf", "Manchester United", "Manchester Cit
 francia = ["Monaco", "Psg", "Rens", "Olympique Marsella"]
 italia = ["Juventus", "Napoles", "Inter", "Ac Milan", "Fiorentina"]
 alemania = list("Bayer munich") #Con la funcion list me deletrea la palabra letra por letra, y solo recibe un argumento.
-
-if any ([españa, inglaterra, francia, italia]):
+pais = str(input("ingresa un pais:"))
+if any ([pais]):
         print("Equipos de futbol")
 else :
      print("No existen")
