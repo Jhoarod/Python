@@ -10,3 +10,5 @@ print("Suma de listas:", sum(list((1,2,3))))
 
 # Suma de diccionarios
 print("suma de diccionarios:", sum(dict(((1,"Uno"),(2,"dos"), (3,"tres")))))
+
+print("adicion:", sum([]) )
