@@ -2,3 +2,4 @@
 .packagejson
 .json
 .source
+package-lock.json
